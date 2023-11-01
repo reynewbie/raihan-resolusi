@@ -2,4 +2,5 @@ RENCANA KONTEN RAIHAN
 - Javascript
   * ES6
   * Memakai Framework
+- Struktur Data Dasar
 - Php Framework
