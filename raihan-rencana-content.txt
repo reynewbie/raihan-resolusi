@@ -2,5 +2,8 @@ RENCANA KONTEN RAIHAN
 - Javascript
   * ES6
   * Memakai Framework
+    ^ Vue
+    ^ React
 - Struktur Data Dasar
 - Php Framework
+  * Laravel
